@@ -2,11 +2,11 @@
 
 ## 🙋🏽‍♂️Sobre mim:
 
-Olá mundo, meu nome é Davi e estou me transicionando para área da tecnologia 💻.
+Olá mundo, meu nome é Davi 💻.
 
-👔 Analista de Dados Junior/ Cientista de Dados Junior.
+👔 Analista de BI Junior.
 
-⏳ Estudando MongoDb, PowerBi e Python (Pandas,Sklearn,TensorFlow).
+⏳ Estudando PowerBi e Python (Pandas,Sklearn,TensorFlow).
 
 🚀 Busco ser ativo/colaborativo na comunidade de dados.
 
